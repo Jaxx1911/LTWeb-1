@@ -104,7 +104,7 @@ export default function Home() {
               <Button className="w-fit rounded-full">Xem ngay</Button>
             </div>
             <div className="relative h-64 md:h-auto">
-              <Image src="/images/summer-banner.jpg" alt="Bộ sưu tập mùa hè" fill className="object-cover" />
+              <Image src="/images/summer-banner.JPG" alt="Bộ sưu tập mùa hè" fill className="object-cover" />
             </div>
           </div>
         </div>
